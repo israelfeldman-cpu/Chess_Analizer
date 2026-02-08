@@ -4,8 +4,6 @@ Tests for Chess Analyzer
 """
 
 import sys
-sys.path.insert(0, '.')
-
 from chess_analyzer import ChessBoard, ChessAnalyzer
 
 
